@@ -1,7 +1,6 @@
 
 # DDEX XML Validator
 
-[![Built by MusicTech Lab](https://musictechlab.io/oss/build-by-musictechlab.io.svg)](https://musictechlab.io)
 
 ![Screenshot of the DDEX Validator](./static/screenshot.png)
 
@@ -9,7 +8,7 @@ This is a Django-based application for validating DDEX XML files against various
 
 ## Demo
 
-[![Demo](https://img.shields.io/badge/Demo-Live-brightgreen)](https://ddexvalidator.musictechlab.io)
+[![Demo](https://img.shields.io/badge/Demo-Live-brightgreen)](https://ddexvalidator.mtl.dev)
 
 ## Features
 - Validate DDEX XML files by uploading or pasting XML content.
@@ -21,7 +20,7 @@ This is a Django-based application for validating DDEX XML files against various
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/musictechlab/mtl-ddexvalidator.git
+   git clone https://github.com/msmenzyk/mtl-ddexvalidator.git
    cd mtl-ddexvalidator
    ```
 
